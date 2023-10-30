@@ -8,7 +8,8 @@ This Mini IoT Radar System is a compact and versatile project created using an A
 ![image](https://github.com/RawHit02/Radar_System-IOT-/assets/107709247/e61ff792-cadc-44e8-abba-2c6f723e4fcc)
 ![image](https://github.com/RawHit02/Radar_System-IOT-/assets/107709247/33ae07a2-cefa-4166-8e7e-dde8cc8f0361)
 ![image](https://github.com/RawHit02/Radar_System-IOT-/assets/107709247/d49d2e86-0631-4ed2-967d-bc97905ad918)
-![Uploading image.png…]()
+![image](https://github.com/RawHit02/Radar_System-IOT-/assets/107709247/94f3950c-bff6-4c61-ac93-7724e3bff403)
+
 
 
 ## Features
